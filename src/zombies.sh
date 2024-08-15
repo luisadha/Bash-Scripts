@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 # Script Name: zombies.sh
 # Description: This script displays zombie processes, i.e., processes that have terminated but have not been fully removed from the system.
 # Usage: bash zombies.sh or chmod +x zombies.sh && ./zombies.sh
