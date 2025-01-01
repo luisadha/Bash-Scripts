@@ -44,4 +44,4 @@ for i in $(seq 1 100); do
 done
 
 echo ""  # Newline for cleaner output
-echo -e "${GREEN}Boss Level unlocked!${NC}"
+echo -e "${GREEN}Animation frame choosed!${NC}"
